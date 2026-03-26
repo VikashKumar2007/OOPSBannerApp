@@ -1,4 +1,4 @@
-public class stringjoin {
+public class stringjoingit checkpo {
 
     public static void main(String[] args) {
 
